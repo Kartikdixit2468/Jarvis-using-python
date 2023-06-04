@@ -1,0 +1,246 @@
+{
+    "messages": [
+        {
+            "tags": "greeting",
+            "patterns": [
+                "hello",
+                "hii",
+                "hello jarvis",
+                "hii jarvis",
+                "hey jarvis",
+                "wake up jarvis",
+                "hey jarvis"
+            ],
+            "responses": [
+                "Hello Sir",
+                "How Are You Sir.",
+                "Always For You Sir",
+                "Hello",
+                "Here's Your Assistant."
+            ]
+        },
+        {
+            "tags": "bye",
+            "patterns": [
+                "bye",
+                "goodbye",
+                "see you later",
+                "sleep",
+                "exit"
+            ],
+            "responses": [
+                "Bye.",
+                "I am Going.",
+                "Bye Sir.",
+                "Good Bye",
+                "goodbye",
+                "It'll be Nice To Meet You Again.",
+                "See You Later"
+            ]
+        },
+        {
+            "tags": "about",
+            "patterns": [
+                "how are you",
+                "how you",
+                "are you fine",
+                "whats going on ",
+                "how do you do",
+                "are you good"
+            ],
+            "responses": [
+                "Fine.",
+                "Perfect.",
+                "Cool.",
+                "Like You.",
+                "Are you Fine? I'm Fine."
+            ]
+        },
+        {
+            "tags": "Time",
+            "patterns": [
+                "Whats the time now.",
+                "tell me the time now",
+                "look at the clock",
+                "whats in clock",
+                "time batao",
+                "kitne baj rahe h",
+                "samay batao",
+                "time kya ho rha h",
+                "time batao",
+                "can you see the clock"
+            ],
+            "responses": [
+                "time"
+            ]
+        },
+        {
+            "tags": "about jarvis",
+            "patterns": [
+                "who are you",
+                "whats your name",
+                "about you",
+                "give your intoduction",
+                "tell me about yourself"
+            ],
+            "responses": [
+                "I am Jarvis, nice to meet you",
+                "My name is Jarvis.",
+                "It's me Jarvis Sir"
+            ]
+        },
+        {
+            "tags": "Date",
+            "patterns": [
+                "Whats is the todays date",
+                "aaj ki date batao",
+                "whats the date today",
+                "whats todays date",
+                "aaj ki tareek batao",
+                "kitni tareek h aaj",
+                "date batao",
+                "aaj kitni taarek h",
+                "date kya h aaj"
+            ],
+            "responses": [
+                "date"
+            ]
+        },
+        {
+            "tags": "Day",
+            "patterns": [
+                "aaj konsa day h batao",
+                "which day is today",
+                "what todays day",
+                "konsa din h aaj",
+                "day batao",
+                "aaj konsa day h",
+                "day kya h aaj"
+            ],
+            "responses": [
+                "day"
+            ]
+        },
+        {
+            "tags": "internet_speed",
+            "patterns": [
+                "whats my internet speed",
+                "whats my speed",
+                "internet speed batao",
+                "download speed batao",
+                "upload speed batao"
+            ],
+            "responses": [
+                "internet_speed"
+            ]
+        },
+        {
+            "tags": "wikipedia",
+            "patterns": [
+                "who is ",
+                "what is the",
+                "Search on wikipedia",
+                "wikipedia",
+                "meaning of",
+                "what is the meaning of",
+                "what's the meaning of"
+            ],
+            "responses": [
+                "wikipedia"
+            ]
+        },
+        {
+            "tags": "google",
+            "patterns": [
+                "what is the",
+                "Search on google",
+                "google search",
+                "meaning of",
+                "who is",
+                "when was",
+                "where was"
+            ],
+            "responses": [
+                "google_search"
+            ]
+        },
+        {
+            "tags": "feedback",
+            "patterns": [
+                "i have feedback",
+                "i want to give feedback",
+                "take feedback",
+                "i am giving feedback "
+            ],
+            "responses": [
+                "feedback"
+            ]
+        },
+        {
+            "tags": "open_google",
+            "patterns": [
+                "google kholo",
+                "google khol do ",
+                "open google"
+            ],
+            "responses": [
+                "open_google"
+            ]
+        },
+        {
+            "tags": "how_to",
+            "patterns": [
+                "how to make",
+                "how to",
+                "how to do that",
+                "how to do this"
+            ],
+            "responses": [
+                "how_to"
+            ]
+        },
+        {
+            "tags": "screenshot",
+            "patterns": [
+                "capture screen",
+                "capture current screen",
+                "take screenshot",
+                "screenshot lelo",
+                "screenshot lo"
+            ],
+            "responses": [
+                "screenshot"
+            ]
+        },
+        {
+            "tags": "translate",
+            "patterns": [
+                "translate into english",
+                "translate it to english",
+                "convert into english",
+                "what it will be in english",
+                "tell me the english of"
+            ],
+            "responses": [
+                "translate"
+            ]
+        },
+        {
+            "tags": "Best Friend",
+            "patterns": [
+                "who is your best friend ",
+                "who's your best friend ",
+                "tell me the name of your best friend ",
+                "is i am your best friend",
+                "can i be your best friend",
+                "can you be my best friend",
+                "tumhara best friend kon h"
+            ],
+            "responses": [
+                "You are my best friend",
+                "You always be my best friend",
+                "My best friend is YOUU!"
+            ]
+        }
+    ]
+}
